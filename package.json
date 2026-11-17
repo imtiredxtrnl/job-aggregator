@@ -1,0 +1,9 @@
+{
+  "name": "job-aggregator",
+  "private": true,
+  "scripts": {},
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
